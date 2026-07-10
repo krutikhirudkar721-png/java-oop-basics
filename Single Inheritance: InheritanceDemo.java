@@ -5,8 +5,6 @@ class A {
         System.out.println("i=" + i + " j=" + j);
     }
 }
-
-
 class B extends A { 
     // inheritance
     int k;
