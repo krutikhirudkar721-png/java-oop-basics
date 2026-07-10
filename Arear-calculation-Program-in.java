@@ -1,7 +1,6 @@
 // # Calculating area of the Cube
 // # CODE
 
-
     import java.util.*;
     public class MyProgramCube {
     public static void main(String[] args) {
@@ -23,4 +22,3 @@
             return height * width * depth;
         }
     }
-
