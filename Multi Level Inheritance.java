@@ -1,5 +1,4 @@
 //CODE
-
 class A {
     protected int i;
     int j;
