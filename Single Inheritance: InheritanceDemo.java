@@ -16,7 +16,6 @@ class B extends A {
     }
 }
 
-
 class InheritanceDemo {
     public static void main(String[] args) {
         A superObjA = new A();
