@@ -4,8 +4,7 @@ class Person {
     Person(String name, long contact) {
         this.name = name;
         this.contact = contact;
-    }
-}
+    }}
 
 class Employee extends Person {
     int empID;
